@@ -1,8 +1,3 @@
-/* references:
-    https://gist.github.com/dineshrajpurohit/d14349fc48c6da937a04
-    https://gist.github.com/mycodeschool/7867739
-*/
-
 let  postfixstr;
 let answ= ""; 
 const readline = require('readline');
